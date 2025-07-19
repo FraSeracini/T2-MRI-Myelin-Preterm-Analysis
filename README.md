@@ -45,3 +45,9 @@ This analysis is part of a larger research effort to assess long-term effects of
 
 This project is for academic use only, distributed under an educational fair-use policy.
 
+## Author
+
+Francesco Seracini  
+MSc Computer Science - Artificial Intelligence  
+Politecnico di Milano - University College London  
+
